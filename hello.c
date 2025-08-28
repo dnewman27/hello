@@ -9,6 +9,7 @@
 int main() {
 
     printf("Dalton Newman\n");
+    printf("My major is computer engineering\n");
 
     return 0;
 }
